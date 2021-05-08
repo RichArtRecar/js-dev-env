@@ -24,7 +24,7 @@
 	"dependencies": {
 		"braces": "^3.0.2",
 		"fstream": "^1.0.12",
-		"lodash": "^4.17.11",
+		"lodash": "^4.17.21",
 		"watchman": "^1.0.0",
 		"whatwg-fetch": "^3.0.0"
 	},
